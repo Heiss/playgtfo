@@ -1,3 +1,5 @@
-FROM rust:1.57.0-slim-buster
+FROM peaceiris/mdbook:v0.4.11-rust
 
-RUN cargo install mdbook
+RUN apk add git
+
+ENTRYPOINT ash

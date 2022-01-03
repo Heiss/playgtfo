@@ -19,11 +19,14 @@ jobs:
       - name: Checkout 🛎
         uses: actions/checkout@v2
 
-      - name: Install dependencies 🔧
-        run: make install
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: '0.4.11'
+          # mdbook-version: 'latest'
 
-      - name: Build 🏗️
-        run: make build
+      - name: Build mdBook
+        run: mdbook build
 
       - name: Deploy to GitHub Pages 🚀
         if: ${{ github.event_name != 'pull_request' }}
