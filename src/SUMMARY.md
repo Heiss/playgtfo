@@ -1,6 +1,6 @@
 # Summary
 
-- [GTFO](../README.md)
+- [GTFO](README.md)
 - [Beginner](beginner.md)
 - [Terminals](terminals.md)
 - [Tasks](tasks.md)

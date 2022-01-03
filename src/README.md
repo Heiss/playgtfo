@@ -1,7 +1,5 @@
-# mdBook Quickstart
+# GTFO Knowledge Database [![GTFO Knowledge Database](https://img.shields.io/static/v1?label=Heiss&message=gtfo-knowledge-database&color=blue&logo=github)](https://github.com/Heiss/gtfo-knowledge-database)
 
-Welcome to the demo site for mkBook Quickstart.
+> This is my collection of my knowledge about GTFO. [Feel free to add your knowledge here](https://github.com/Heiss/gtfo-knowledge-database/discussions). I created this, because i think that the [wiki](https://gtfo.fandom.com/wiki/GTFO_Wiki) is not the right place for spoilers or such tips i want to give here. So people can read the wiki and this tips, if they want and ignore the other side. I will give you links to the wiki if it helps to understand and try to avoid duplicates.
 
-View source:
-
-[![GTFO Knowledge Database](https://img.shields.io/static/v1?label=Heiss&message=gtfo-knowledge-database&color=blue&logo=github)](https://github.com/Heiss/gtfo-knowledge-database)
+If you find errors, have more stuff to add or want to discuss some points, i invite you to do it [here](https://github.com/Heiss/gtfo-knowledge-database/discussions). You can create own inputs, too. So please feel free to create pull requests.
