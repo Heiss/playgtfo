@@ -1,8 +1,11 @@
 # Summary
 
-- [mdBook Quickstart](README.md)
-- [Chapter 1](chapter-1.md)
-- [Chapter 2](chapter-2.md)
-- [Foo](foo/README.md)
-    - [Fizz](foo/fizz.md)
-    - [Buzz](foo/buzz.md)
+- [GTFO](../README.md)
+- [Beginner](beginner.md)
+- [Terminals](terminals.md)
+- [Tasks](tasks.md)
+- [Enemies](enemies.md)
+- [Tactics](tactics.md)
+- [Bots](bots.md)
+- [Rundowns](rundowns/README.md)
+    - [R6](rundowns/r6.md)
