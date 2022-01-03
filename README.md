@@ -1,5 +1,5 @@
-# mdBook Quickstart 🦀 📙
-> Starter template for an online book or docs site made with Markdown and mdBook
+# GTFO Knowledge Database
+> This is my collection of my knowledge about GTFO. Feel free to add your knowledge here.
 
 <!-- Badges generated with https://michaelcurrin.github.io/badge-generator/ -->
 
@@ -13,22 +13,6 @@
 [![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
 [![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-
-## Preview
-
-<div align="center">
-    
-<a href="https://michaelcurrin.github.io/mdbook-quickstart/">
-    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
-</a>
-    
-<br>
-    
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/mdbook-quickstart/)
-    
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/mdbook-quickstart/generate)
-
-</div>
 
 
 ## Sample usage
@@ -49,8 +33,3 @@ Open in the browser.
 [![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
 
 </div>
-
-
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
