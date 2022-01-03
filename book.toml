@@ -5,3 +5,7 @@ multilingual = false
 src = "src"
 title = "mdBook Quickstart"
 description = "Demo site for mdBook Quickstart repo"
+
+[output.html]
+additional-css = ["theme/style.css"]
+additional-js = ["theme/sidebar.js"]
