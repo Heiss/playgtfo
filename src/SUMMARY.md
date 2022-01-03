@@ -11,4 +11,4 @@
     - [After Expedition](tactics/AfterExpedition.md)
 - [Bots](bots.md)
 - [Rundowns](rundowns/README.md)
-    - [R6](rundowns/r6.md)
+    - [R6](rundowns/r6/README.md)
