@@ -2,6 +2,8 @@
 
 ## Task: Collect Key
 
+Somewhere in the complex you can find a key to open the door. Most times you will find the name of the key if you come close to the door. So the name can be queried via a terminal and (if it is in the same zone as the terminal) can be pinged.
+
 ## Task: Collect Cell
 
 This is very equal to [Task: Collect key](#task-collect-key), except one of your team member needs to carry a battery cell to the door, so this member cannot use any weapons or tools while the battery is holding. It can be dropped while pressing and holding e until it is dropped.
