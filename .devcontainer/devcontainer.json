@@ -6,7 +6,8 @@
 	},
 	"extensions": [
 		"visualstudioexptteam.vscodeintellicode",
-		"editorconfig.editorconfig"
+		"editorconfig.editorconfig",
+		"yzhang.markdown-all-in-one"
 	],
 	"portsAttributes": {
 		"3000": {
