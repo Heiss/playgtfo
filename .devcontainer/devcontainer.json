@@ -1,0 +1,11 @@
+{
+	"name": "MDBook",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
+	"extensions": [
+		"visualstudioexptteam.vscodeintellicode",
+		"editorconfig.editorconfig"
+	]
+}
