@@ -16,6 +16,8 @@ This is very equal to [Task: Collect key](#task-collect-key), except one of your
 
 This is easier as it seems. You have to type in `UPLINK_CONNECT <IP>` with the corresponding IP from your tasks to start the sleeper waves. After this you have to type in `UPLINK_VERIFY <VALUE>`. The `value` can be taken from the UI you see, when you are away from the terminal. The yellow printed value is the corresponding key. It is exact the same as a dictionary in programming languages. The terminal gives you the `key` and you have to look up the `value` and type it in.
 
+As long as you do not finish this task, there will be waves of enemies. So you should enter as fast as you can the values, because there is a loading bar between all inputs.
+
 ### Tips
 
-For faster typing, you should type in `UPLINK_VERIFY ` (especially the space after the keyword!) and press enter. It is invalid, so nothing happens. But you can access it faster with the up-arrow key on your keyboard after you lookup the `key` and wants to enter the `value`. This can be seen in the second guide video. This is much faster then the first guide video.
+For faster typing, you should type in `UPLINK_VERIFY ` (there is a space after the command!!!) and press enter. It is invalid, so nothing happens. But you can access it faster with the up-arrow key on your keyboard after you lookup the `key` and wants to enter the `value`. This can be seen in the second guide video. This is much faster then the first guide video.
