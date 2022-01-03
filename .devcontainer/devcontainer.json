@@ -7,5 +7,11 @@
 	"extensions": [
 		"visualstudioexptteam.vscodeintellicode",
 		"editorconfig.editorconfig"
-	]
+	],
+	"portsAttributes": {
+		"3000": {
+			"label": "MDBook",
+			"onAutoForward": "notify"
+		}
+	},
 }
