@@ -29,7 +29,7 @@ jobs:
         run: mdbook build
 
       - name: Create CNAME
-        run: cat "playgtfo.eu" > book/CNAME
+        run: echo "playgtfo.eu" > book/CNAME
 
       - name: Deploy to GitHub Pages 🚀
         if: ${{ github.event_name != 'pull_request' }}
