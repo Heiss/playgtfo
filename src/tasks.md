@@ -8,6 +8,10 @@ Somewhere in the complex you can find a key to open the door. Most times you wil
 
 This is very equal to [Task: Collect key](#task-collect-key), except one of your team member needs to carry a battery cell to the door, so this member cannot use any weapons or tools while the battery is holding. It can be dropped while pressing and holding e until it is dropped.
 
+## Task: Transport a Box
+
+Instead to collect a cell and enter it somewhere, you have something to bring somewhere. Most times this is an overall task and other tasks supports this one to achieve. Read the text for the current task to know, what you need to deliver where.
+
 ## Task: Scan HSU
 
 ## Task: Uplink verify
