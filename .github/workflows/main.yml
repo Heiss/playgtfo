@@ -28,6 +28,9 @@ jobs:
       - name: Build mdBook
         run: mdbook build
 
+      - name: Create CNAME
+        run: cat "playgtfo.eu" > book/CNAME
+
       - name: Deploy to GitHub Pages 🚀
         if: ${{ github.event_name != 'pull_request' }}
         uses: peaceiris/actions-gh-pages@v3
