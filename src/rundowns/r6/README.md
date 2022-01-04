@@ -4,7 +4,7 @@
 
 There is a little cut in the image at the top. You will find there a big room with story and the extraction point, which you have to defend for a few minutes. So be prepared to defend the extraction room.
 
-[![A1](/rundowns/r6/a1map.png)](/rundowns/r6/a1map.png)
+[![A1](a1map.png)](a1map.png)
 [Guide](https://youtu.be/9XijRULTI-Y)
 
 ## B1
