@@ -13,9 +13,11 @@ There is a little cut in the image at the top. You will find there a big room wi
 
 ## B2
 
+[![](b2.png)](b2.png)
+
 ## C1
 
-[![](c1.jpg)](https://steamah.com/wp-content/uploads/2021/12/1639984745.jpg)
+[![](c1.jpg)](c1.jpg)
 [Guide](https://www.youtube.com/watch?v=55G3WmkHgHM)
 
 ## C2
