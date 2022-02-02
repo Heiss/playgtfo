@@ -28,6 +28,9 @@ There is a little cut in the image at the top. You will find there a big room wi
 
 ## D1
 
+[![](d1.png)](d1.png)
+[Guide](https://www.youtube.com/watch?v=fvaw2DHltvc)
+
 ## D2
 
 ## D3
