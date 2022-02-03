@@ -22,6 +22,9 @@ There is a little cut in the image at the top. You will find there a big room wi
 
 ## C2
 
+[![](c2.png)](c2.png)
+[Guide](https://www.youtube.com/watch?v=lIMGgl3P9zA)
+
 ## C3
 
 [![](c3.jpg)](https://i.redd.it/528i706t76981.jpg)
