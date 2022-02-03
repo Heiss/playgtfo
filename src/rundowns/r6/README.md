@@ -9,11 +9,13 @@ There is a little cut in the image at the top. You will find there a big room wi
 
 ## B1
 
+[![](b1.png)](b1.png)
 [Guide](https://www.youtube.com/watch?v=UIR_63PuFgM)
 
 ## B2
 
 [![](b2.png)](b2.png)
+[Guide](https://www.youtube.com/watch?v=SzjXtgRVRlw)
 
 ## C1
 
@@ -28,6 +30,7 @@ There is a little cut in the image at the top. You will find there a big room wi
 ## C3
 
 [![](c3.jpg)](https://i.redd.it/528i706t76981.jpg)
+[Guide]()
 
 ## D1
 
@@ -36,8 +39,15 @@ There is a little cut in the image at the top. You will find there a big room wi
 
 ## D2
 
+[![](d2.png)](d2.png)
+[Guide]()
+
 ## D3
 
 [![](d3.jpg)](https://i.redd.it/n0vg4js2ts881.jpg)
+[Guide]()
 
 ## D4
+
+[![](d4.png)](d4.png)
+[Guide]()

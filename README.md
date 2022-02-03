@@ -1,6 +1,6 @@
 # GTFO Knowledge Database [![GTFO Knowledge Database](https://img.shields.io/static/v1?label=Heiss&message=gtfo-knowledge-database&color=blue&logo=github)](https://github.com/Heiss/gtfo-knowledge-database)
 
-> This is my collection of my knowledge about GTFO. [Feel free to add your knowledge here](https://github.com/Heiss/gtfo-knowledge-database/discussions). I created this, because i think that the [wiki](https://gtfo.fandom.com/wiki/GTFO_Wiki) is not the right place for spoilers or such tips i want to give here. So people can read the wiki and this tips, if they want and ignore the other side. I will give you links to the wiki if it helps to understand and try to avoid duplicates.
+> This is my collection of my knowledge about GTFO. [Feel free to add your knowledge here](https://github.com/Heiss/gtfo-knowledge-database/discussions). I created this, because i think that the [wiki](https://gtfo.fandom.com/wiki/GTFO_Wiki) is not the right place for spoilers or such tips i want to give here. So people can read the wiki and / or this tips, if they want and ignore the other site. I will give you links to the wiki if it helps to understand and try to avoid duplicates.
 
 [![GH Pages Deploy](https://github.com/Heiss/gtfo-knowledge-database/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/Heiss/gtfo-knowledge-database/actions/workflows/main.yml?query=workflow:"GH+Pages+Deploy")
 [![GitHub tag](https://img.shields.io/github/tag/Heiss/gtfo-knowledge-database?include_prereleases=&sort=semver)](https://github.com/Heiss/gtfo-knowledge-database/releases/)
